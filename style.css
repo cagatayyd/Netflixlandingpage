@@ -1,0 +1,178 @@
+.bg{
+    background-color:black;
+}
+#storycard{
+background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(https://assets.nflxext.com/ffe/siteui/vlv3/ac824598-245b-4828-b14f-5cff9074f4d0/caf2a678-b423-45a0-b7e0-003ea136882d/TR-en-20220822-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+width: 100%;
+height: 697px;
+object-fit: cover;
+border-bottom: 8px solid #222;
+}
+#logo{
+fill: #e50914;
+line-height: normal;
+margin-left: 40px;
+margin-top: 500px;
+}
+.langdrop{
+    background-color:transparent;
+    color: #fff;
+    border-color:#fff;
+    border: 0.1rem solid;
+    border-radius: 2px;
+    width: 102px;
+    height: 36.19px;
+}
+.signin{
+    background-color: #e50914;
+    border: none;
+    margin-left: 30px;
+    color: #fff;
+    border-radius: 2px;
+    width: 84.9px;
+    height: 34px;
+}
+.story-text{
+    color: #fff;
+    margin-top: 100px;
+    font-size: 70px;
+}
+#email{
+font-size: 20px;
+width: 450px;
+height: 60px;
+border: 0;
+border-bottom: 2px solid #ffa00a;
+outline: none;
+}
+#start{
+    font-size: 20px;
+    color: #fff;
+    background-color: #e50914;
+    border: none;
+    width: 212.97px;
+    height: 60px;
+}
+#start:hover{
+    filter: brightness(125%);
+}
+.second{
+    background-color: black;
+    color: #fff;
+    border-bottom: 8px solid #222;
+}
+video{
+    border-radius: 10px;
+}
+.third{
+    background-color: black;
+    color: #fff;
+    border-bottom: 8px solid #222;
+}
+.forth{
+    background-color: black;
+    color: #fff;
+    border-bottom: 8px solid #222;
+}
+.fifth{
+    background-color: black;
+    color: #fff;
+    border-bottom: 8px solid #222;
+}
+.last{
+    background-color: black;
+    color: #fff;
+    border-bottom: 8px solid #222;
+    margin-bottom: 40px;
+}
+.dropbtn {
+    background-color: #222;
+    color: white;
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+    width: 815px;
+    height: 75.59px;
+    text-align: left;
+  }
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #222;
+  }
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.bordertext{
+    border-bottom: 1px solid black;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #222;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+.dropdown-content a {
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+.dropdown-content a:hover {
+    background-color: #222
+}
+.show {
+    display:block !important;
+}
+.dontshow{
+    display: none;
+}
+.questions{
+    margin-left: 5px;
+    font-size: 30px;
+}
+.dropdownanswers{
+    background-color: #222;
+    color: white;
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+    width: 815px;
+    height: 75.59px;
+    text-align: left;
+    display: none;
+}
+.answer{
+    background-color: #222;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.plus{
+float: right;
+}
+.footerhead{
+    margin-left: 300px;
+    color: #737373;
+}
+.tel{
+    color: #737373;
+    text-decoration: none;
+}
+.tel:hover{
+    color: #737373;
+    text-decoration: underline;
+}
+.footerthings{
+    margin-left: 200px;
+    font-size: small;
+    color: #737373;
+    text-decoration: none;
+}
+.footerthings:hover{
+    color: #737373;
+    text-decoration: underline;
+}
